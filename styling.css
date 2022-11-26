@@ -1,0 +1,19 @@
+.blocks{
+    display: flex;
+    height: 90vh;
+}
+
+.blocks__block {
+    flex: 0.5;
+    border-radius: 1.5rem;
+    margin: 3px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: flex 800ms ;
+}
+
+.blocks__block--active{
+    flex: 5;
+    transition: flex 800ms ;
+}
