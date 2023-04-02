@@ -1,4 +1,4 @@
-# 1-50-expand-block
+# expand-block
 
 # Introduction
 Welcome, this is a small project showing blocks that expand when you click on it.
